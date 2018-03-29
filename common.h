@@ -23,6 +23,7 @@ typedef struct
   double ay;
 } particle_t;
 
+typedef std::vector<particle_t> bin_t;
 //
 //  timing routines
 //
